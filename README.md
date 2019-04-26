@@ -1,5 +1,7 @@
 # Dedupe Compare
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Tiim/dedupe-compare.svg)](https://greenkeeper.io/)
+
 De-duplicate arrays of arbitrary objects with a equality function.
 
 ## Installation
