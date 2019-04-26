@@ -1,0 +1,24 @@
+{
+  "name": "dedupe-compare",
+  "version": "0.1.0",
+  "description": "De-duplicate arrays of arbitrary objects with a equality function.",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint",
+    "test": "jest"
+  },
+  "keywords": [
+    "dedupe",
+    "array",
+    "duplicate"
+  ],
+  "author": "Tim Bachmann",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.17.2",
+    "eslint-plugin-jest": "^22.5.1",
+    "jest": "^24.7.1"
+  }
+}
