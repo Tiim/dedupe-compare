@@ -2,3 +2,4 @@
 .eslintrc.js
 *.test.js
 jest.config.js
+*.log
