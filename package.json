@@ -2,6 +2,13 @@
   "name": "dedupe-compare",
   "version": "0.1.0",
   "description": "De-duplicate arrays of arbitrary objects with a equality function.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tiim/dedupe-compare.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Tiim/dedupe-compare/issues"
+  },
   "main": "index.js",
   "scripts": {
     "lint": "eslint",
@@ -12,7 +19,10 @@
     "array",
     "duplicate"
   ],
-  "author": "Tim Bachmann",
+  "author": {
+    "name": "Tim Bachmann",
+    "url": "https://tiimb.work"
+  },
   "license": "MIT",
   "devDependencies": {
     "eslint": "^5.16.0",
