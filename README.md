@@ -1,5 +1,6 @@
 # Dedupe Compare
 
+[![Build Status](https://travis-ci.org/Tiim/dedupe-compare.svg?branch=master)](https://travis-ci.org/Tiim/dedupe-compare)
 [![Greenkeeper badge](https://badges.greenkeeper.io/Tiim/dedupe-compare.svg)](https://greenkeeper.io/)
 
 De-duplicate arrays of arbitrary objects with a equality function.
