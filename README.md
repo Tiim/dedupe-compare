@@ -1,7 +1,7 @@
 # Dedupe Compare
 
 
-Deprecated: use Lodash [_.uniq](https://lodash.com/docs/#uniq), [_.uniqBy](https://lodash.com/docs/#uniqBy) or [_.uniqWith](https://lodash.com/docs/#uniqWith) instead.
+⚠ Deprecated: use Lodash [_.uniq](https://lodash.com/docs/#uniq), [_.uniqBy](https://lodash.com/docs/#uniqBy) or [_.uniqWith](https://lodash.com/docs/#uniqWith) instead.
 
 
 
